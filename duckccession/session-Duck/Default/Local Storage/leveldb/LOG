@@ -1,0 +1,15 @@
+2023/05/18-06:14:06.802 4e88 Reusing MANIFEST C:\Users\Daniel\Documents\bot\duckccession\session-Duck\Default\Local Storage\leveldb/MANIFEST-000001
+2023/05/18-06:14:06.807 4e88 Recovering log #171
+2023/05/18-06:14:06.808 4e88 Reusing old log C:\Users\Daniel\Documents\bot\duckccession\session-Duck\Default\Local Storage\leveldb/000171.log 
+2023/05/19-05:55:46.700 6878 Level-0 table #175: started
+2023/05/19-05:55:46.706 6878 Level-0 table #175: 10662 bytes OK
+2023/05/19-05:55:46.711 6878 Delete type=0 #171
+2023/05/19-05:55:46.711 6878 Compacting 4@0 + 1@1 files
+2023/05/19-05:55:46.718 6878 Generated table #176@0: 74 keys, 4400 bytes
+2023/05/19-05:55:46.718 6878 Compacted 4@0 + 1@1 files => 4400 bytes
+2023/05/19-05:55:46.722 6878 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/05/19-05:55:46.723 6878 Delete type=2 #165
+2023/05/19-05:55:46.723 6878 Delete type=2 #167
+2023/05/19-05:55:46.723 6878 Delete type=2 #169
+2023/05/19-05:55:46.723 6878 Delete type=2 #172
+2023/05/19-05:55:46.723 6878 Delete type=2 #175
